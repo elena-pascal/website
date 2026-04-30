@@ -18,6 +18,8 @@ It is designed to be inclusive, open to all and requires no booking – simply b
 
 Park Yoga is more than just exercise: it’s a chance to connect with others, enjoy nature, and improve both physical and mental well-being. Our local expert yoga instructor, Jane Cuthbert will guide you through a one-hour accessible work-out.
 
+<img width="300" height="214" alt="image" src="https://github.com/user-attachments/assets/1738d4f1-46fe-4800-9173-c75fe3476fd6" />
+
 See flower icon on the map above.
 
 Park Yoga is a registered charity. Please consider supporting us by [making a donation](https://cafdonate.cafonline.org/10842#!/DonationDetails) so that these sessions can run sustainably year after year.
