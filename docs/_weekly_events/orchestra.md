@@ -1,5 +1,5 @@
 ---
-title: Eddington Community Orchestra
+title: Eddington Community Orchestra Rehearsal
 code: orchestra
 day: Sunday
 start_time: "15:00"
@@ -58,6 +58,7 @@ Laurie is passionate about creating fun and musically rewarding experiences for 
 ***Upcoming concerts:***
 - ***Histon Methodist Church, in aid of a new piano for the Church, Sunday April 26th, 2026***
 - ***Summer concert at Story's Field Centre, Sunday July 12th, 2026***
+
 ---
 
 ### Testimonials

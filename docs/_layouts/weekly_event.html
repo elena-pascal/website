@@ -5,7 +5,11 @@ layout: default
 
 {{ page.day }}s <span class="do-prettify-times">{{ page.start_time }} to {{ page.end_time }}</span>
 {%- include separator.md -%}
+{%- if page.w3w -%}
+<a href="https://what3words.com/{{ page.w3w }}">{{ page.location }}</a>
+{%- else -%}
 {{ page.location }}
+{%- endif -%}
 {%- include separator.md -%}
 {%- if page.price == 0-%}
 free
@@ -21,6 +25,8 @@ free
 <br>
 <br>
 
+{%- if content.size < 200 -%}
 <div style="font-style: italic; border: 1px solid #fec; background-color: #fec5; padding: 1em 2em; margin: 1em; border-radius: 0.5em;">
   This page is a stub. If you are the event organiser and would like to update it please <a href="/contact-us">get in touch</a>
 </div>
+{%- endif -%}
