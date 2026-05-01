@@ -4,6 +4,7 @@ permalink: archive/agm2026-summary
 redirect_from:
   - agm
   - agm-summary
+  - archive/agm2026
 ---
 
 Over 50 residents came to our 2026 AGM - making it the biggest ever - along with elected representatives and the new chair of Portal's board. Thanks to all who took part, and extra special thanks to those who have offered their help going forward.
