@@ -42,7 +42,10 @@ ERA Chair Iain welcomed the attendees and identified reps in the room. He skippe
 
 [ERA's Social Media Presence](#social-media){:name='social-media'} presents an unexploited opportunity to bring different local groups into our orbit. Our current lack of skills in this area is a weakness we're still looking to improve - **please [get in touch](contact-us) if you would be interested in contributing**.
 
+<!--
 A number of other queries and ideas were raised, which you can find in [the full minutes](/meetings/minutes/agm/2026-04-30.pdf).
+//-->
+Full meeting minutes will follow this weekend.
 
 ## Who was elected
 
