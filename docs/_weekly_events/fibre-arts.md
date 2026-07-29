@@ -13,4 +13,4 @@ organiser_email:
 We are a community organised fibre arts circle. Everyone is welcomed: knitters, crocheters, sewists or whatever your favourite portable fibre arts is. Or maybe you are looking into picking up a fun and rewarding hobby? Either way, this is great opportunity to meet the neighbours over a drink in a relaxed atmosphere. 
 
 
-<img width="1587" height="2245" alt="Sit knit talk (portrait)" src="https://github.com/user-attachments/assets/ff0538c6-f77a-4cdf-a2e6-414684c6412c" />
+<img width="794" height="1122" alt="Sit knit talk (portrait)" src="https://github.com/user-attachments/assets/ff0538c6-f77a-4cdf-a2e6-414684c6412c" />
